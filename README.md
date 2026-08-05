@@ -31,7 +31,7 @@ Excel Sales Analysis - Superstore
 
   Dashboard:    
      https://github.com/shah56-56/Superstore-dashboard-Analysis/blob/main/Screenshot.png
- Results:
+   Results:
 - West Region generated the highest sales.
 - Technology category had the highest sales.
 - Consumer segment placed the most orders.
