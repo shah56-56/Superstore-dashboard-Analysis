@@ -4,7 +4,7 @@ Excel Sales Analysis - Superstore
    The goal of this project is to analyze the performance of products, category, subcategory across different regions and different segments. To also identify the patterns and trends over months, years, days.
  Dataset:
 - <a href="https://github.com/shah56-56/Superstore-Dashboard-/blob/main/sales%20-analysis.xlsx">Dataset</a>
-- Sales by Category and Segment
+  - Sales by Category and Segment
 - Orders by Segment and Ship Mode
 
  Charts: Sample Superstore Dataset
@@ -27,8 +27,10 @@ Excel Sales Analysis - Superstore
 - Stacked Column Chart
 - Line Chart
 - Bar Chart
- Dashboard:    
-https://github.com/shah56-56/Superstore-dashboard-Analysis/blob/main/Screenshot.png
+
+
+  Dashboard:    
+     https://github.com/shah56-56/Superstore-dashboard-Analysis/blob/main/Screenshot.png
  Results:
 - West Region generated the highest sales.
 - Technology category had the highest sales.
