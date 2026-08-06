@@ -5,9 +5,9 @@ Excel Sales Analysis - Superstore
 
 
  Dataset:
-- <a href="https://github.com/shah56-56/Superstore-Dashboard-/blob/main/sales%20-analysis.xlsx">Dataset</a>
-  - Sales by Category and Segment
-- Orders by Segment and Ship Mode
+ - <a href="https://github.com/shah56-56/Superstore-Dashboard-/blob/main/sales%20-analysis.xlsx">Dataset</a>
+ - Sales by Category and Segment
+ - Orders by Segment and Ship Mode
 
  Charts: Sample Superstore Dataset
 - Columns: Order Date, Region, Segment, Category, Sales, Profit, Quantity, Ship Mode
